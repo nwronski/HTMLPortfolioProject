@@ -1,5 +1,5 @@
 {
-  "name": "project-html-portfolio",
+  "name": "skip-cache",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,9 +11,9 @@
   "author": "Sergio Cruz <sergio@codeschool.com>",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.14.0",
+    "browser-sync": "^2.15.0",
     "chai": "^3.5.0",
-    "jsdom": "^9.4.1",
-    "mocha": "^3.0.1"
+    "jsdom": "^9.5.0",
+    "mocha": "^3.0.2"
   }
 }
